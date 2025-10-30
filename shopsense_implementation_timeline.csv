@@ -1,0 +1,13 @@
+Week,Phase,Task,Deliverable,Estimated Hours
+Week 1,Foundation,Setup React + Vite project,Project boilerplate ready,4
+Week 1,Foundation,Create folder structure & routing,Components & pages structure,6
+Week 1,Foundation,Integrate FakeStoreAPI & build product listing,Products displayed on homepage,8
+Week 2,Shopping Cart,Create CartContext with useReducer,Cart state management working,6
+Week 2,Shopping Cart,Implement add/remove/update cart functions,Full cart functionality,8
+Week 2,Shopping Cart,Add localStorage persistence,Cart persists on page reload,4
+Week 3,Checkout,Build multi-step checkout form,Functional checkout flow,10
+Week 3,Checkout,Implement form validation,Form validates user input,6
+Week 3,Checkout,Create order confirmation page,Mock order ID generated,4
+Week 4,Polish & Deploy,Responsive design & animations,Mobile-friendly UI,8
+Week 4,Polish & Deploy,Performance optimization,Fast loading times,6
+Week 4,Polish & Deploy,Deploy to Vercel/Netlify,Live production URL,4

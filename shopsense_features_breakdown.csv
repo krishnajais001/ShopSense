@@ -1,0 +1,14 @@
+Feature,Priority,Difficulty,Time Required (Hours),Dependencies
+Product Catalog,Core,Easy,8,FakeStoreAPI
+Product Search,Core,Medium,4,Product Catalog
+Shopping Cart,Core,Medium,10,Context API
+LocalStorage Persistence,Core,Easy,2,Shopping Cart
+Checkout Flow,Core,Medium,12,Shopping Cart
+Form Validation,Core,Medium,6,Checkout Flow
+Order Confirmation,Core,Easy,3,Checkout Flow
+Responsive Design,Core,Medium,8,Tailwind CSS
+User Authentication,Optional,Hard,12,JWT + Backend
+Dark Mode,Optional,Easy,3,Context API
+Advanced Filtering,Optional,Medium,6,Product Catalog
+Order History,Optional,Hard,10,User Auth + DB
+Payment Integration,Optional,Hard,15,Stripe/Razorpay

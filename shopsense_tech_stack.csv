@@ -1,0 +1,13 @@
+Component,Technology,Why This Choice,Installation
+Framework,React 18+,"Modern, component-based, great ecosystem",npm create vite@latest
+Build Tool,Vite,"Lightning fast dev server, optimized builds",Included with Vite
+State Management,Context API + useReducer,"Built-in React, no extra dependencies",Built-in React
+Routing,React Router v6,Standard routing library for React,npm install react-router-dom
+HTTP Client,Axios,"Clean API, interceptors, better error handling",npm install axios
+Styling,Tailwind CSS,"Utility-first, rapid development, small bundle",npm install -D tailwindcss
+Form Handling,React Hook Form,"Performance, less re-renders, easy validation",npm install react-hook-form
+Validation,Custom validators,Custom logic for specific business rules,Custom code
+UUID Generation,uuid library,Generates unique order IDs,npm install uuid
+Backend (Optional),Node.js + Express,"Popular, scalable, JavaScript everywhere",npm install express
+Database (Optional),MongoDB,"NoSQL, flexible schema, JSON-like documents",npm install mongoose
+Authentication (Optional),JWT,"Stateless, secure, industry standard",npm install jsonwebtoken
